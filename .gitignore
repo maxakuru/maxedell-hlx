@@ -1,6 +1,10 @@
 #temp?
 /public
 
+# helix
+.hlx
+logs/
+
 # misc
 .DS_Store
 *.pem
